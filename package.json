@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Reactotron plugin for recoil.js",
   "main": "dist/index.js",
+  "types": "./dist/types/index.d.ts",
   "repository": "https://github.com/partiellkorrekt/reactotron-recoil.git",
   "scripts": {
     "format": "prettier --write {**,.}/*.ts",
